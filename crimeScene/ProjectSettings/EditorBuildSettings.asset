@@ -4,6 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/crimeScene.unity
+    guid: c11d5a62ccbd3cd4294cd2906d6385cd
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 814539b567aef7b4d8785e516aba4298, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b2c2201a880ce644491de357232d933c, type: 2}
